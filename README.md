@@ -39,9 +39,6 @@ This study challenges the meritocratic assumption that success is purely earned.
 
 ---
 
-## 📁 Project Structure
----
-
 ## 🛠️ Tech Stack
 
 - Python (OOP)
